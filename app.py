@@ -13,7 +13,7 @@ Original file is located at
 
 import lineTool
 
-token="N737HRc9YYFNCRNlcai7OPIU1NkvDroc5EXCooi0XlUxxx"
+token="N737HRc9YYFNCRNlcai7OPIU1NkvDroc5EXCooi0XlU"
 
 def linePush(msg):
     lineTool.lineNotify(token, msg)
